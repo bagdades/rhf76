@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Ai-Thinker")(type "KiCad")(uri "${KIPRJMOD}/Ai-Thinker.pretty")(options "")(descr ""))
+)
